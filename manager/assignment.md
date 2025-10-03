@@ -18,10 +18,9 @@ To complete the assignment:
 When editing:
 
 - Add learning objectives to the introduction.
-- Add additional sections and content for both prerequisites and next steps. 
-- Add section titles that are compatible with the guide template.
-- Identify and fix any spelling or grammar mistakes.
-- Edit the text for readability and compatibility with the style guide.
 - Run the code and paste the terminal output for all commands. 
+- Identify and fix any spelling or grammar mistakes.
+- Edit the text for readability and compatibility with the style guide and template.
+- Make any other improvements that you think will make the content better. 
 
 Once you have completed the assignment, send a link to your PR to the recruiter.
