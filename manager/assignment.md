@@ -12,8 +12,9 @@ To complete the assignment:
 
 1. Create a new, public GitHub repository (do not fork this repository). Make sure the repository is publicly accessible so we can review your submission.
 1. Before editing, commit [the initial version of the sample text](terraform-getting-started.md) to the main branch of the repository. 
-1. Create a new branch and update the sample text to satisfy the style guide.
-1. Create a pull request for your proposed changes to the text. Do not merge the pull request.
+1. Create a new branch and update the sample text with your improvements.
+1. Open a pull request with your proposed changes and include any feedback for the author.
+1. Do not merge the pull request.
 
 When editing:
 
