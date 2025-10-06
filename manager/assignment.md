@@ -4,7 +4,7 @@ As a manager of product education engineering, you are accountable for ensuring 
 
 ## Instructions
 
-Imagine that a member of your team has published this [sample text](terraform-getting-started.md). Create a new repository containing the sample text, and open a PR to give your team member feedback, improve the content, correct the educational and technical errors, and implement the provided [writing style guide](../styling-guide-snippet.md) and [guide template](../guide-template.md). You may link to existing resources created by HashiCorp or the community, but do not plagiarize content from HashiCorp tutorials or documentation. 
+Imagine that a member of your team has published this [sample text](terraform-getting-started.md). Create a new repository containing the sample text. Then open a PR to give your team member feedback, improve the content, correct the educational and technical errors, and implement the provided [writing style guide](../styling-guide-snippet.md) and [guide template](../guide-template.md). You may link to existing resources created by HashiCorp or the community, but do not plagiarize content from HashiCorp tutorials or documentation. 
 
 **NOTE: Do not branch or fork this repository.** Make a copy of all files, and create a fresh repository. This will prevent other candidates from easily finding your work.
 
