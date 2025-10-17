@@ -1,6 +1,6 @@
 ## Overview 
 
-As a manager of product education engineering, you are accountable for ensuring content quality, which involves reviewing and providing clear feedback on your team's work. Therefore, this technical writing and editing project is part of your interview. It is designed to take between 1.5 - 2 hours.
+As a manager of product education engineering, you are accountable for content quality, which involves reviewing and providing clear feedback on your team's work. So, this technical writing and editing project is part of your interview. It is designed to take between 1.5 - 2 hours.
 
 ## Instructions
 
