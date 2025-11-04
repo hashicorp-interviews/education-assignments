@@ -7,7 +7,7 @@ Introduction goes here... (e.g. what you'll learn in this guide)
 Example:
 
 - Vault **version 1.2.0** or later
-- [Kubernetes comand-line interface (CLI)](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
+- [Kubernetes command-line interface (CLI)](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 - [Minikube](https://minikube.sigs.k8s.io)
 
 
