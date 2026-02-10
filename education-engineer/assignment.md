@@ -8,7 +8,6 @@ Please take the time to carefully review the [writing style guide](../styling-gu
 
 ## Instructions
 
-
 Update the [sample text](terraform-getting-started.md) to follow the provided [writing style guide](../styling-guide-snippet.md) and
 [guide template](../guide-template.md).
 
@@ -20,7 +19,7 @@ To complete the assignment:
 - Create a new branch and update the sample text to satisfy the style guide.
 - Create a pull request for your proposed changes to the text. Do not merge the pull request.
 
-**NOTE: DO NOT FORK THE PROJECT.** Make a copy of all files, create a fresh repository, and open a pull request against your own project.
+**NOTE: DO NOT BRANCH OR FORK THE PROJECT.** Make a copy of all files, create a fresh repository, and open a pull request against your own project.
 
 When editing:
 - Identify and fix any spelling or grammar mistakes.
@@ -33,4 +32,4 @@ When editing:
 ### Assumptions: 
 - The audience has none to minimal experience with Terraform.
 
-Once you have completed the assignment, send a link to your PR to the HashiCorp recruiter.
+Once you have completed the assignment, send a link to your PR to the recruiter.
