@@ -32,4 +32,4 @@ When editing:
 ### Assumptions: 
 - The audience has none to minimal experience with Terraform.
 
-Once you have completed the assignment, send a link to your PR to the recruiter.
+Once you have completed the assignment, send a link to your PR to the hiring manager.
